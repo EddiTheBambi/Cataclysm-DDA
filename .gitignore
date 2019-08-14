@@ -182,3 +182,5 @@ Xcode/
 /.flatpak-builder/
 /repo/
 /build-dir/
+/msvc-full-features/UpgradeLog.htm
+*.vcxproj
